@@ -1,0 +1,6 @@
+EE 367 (data structures and algorithms)
+Spring 2016 Midterm 1
+
+Task:	Implement deleteNode() to remove a node from a binary tree.
+	It must consider all cases and preserve the tree structure.
+
